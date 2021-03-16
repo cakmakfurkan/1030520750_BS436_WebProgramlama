@@ -1,1 +1,3 @@
-# 1030520750_BS436_WebProgramlam
+Öğrenci Numarası: 1030520750
+Öğrenci Adı: Furkan Çakmak
+Ders Adı: BS436 Web Programlama
